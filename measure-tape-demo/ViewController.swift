@@ -3,7 +3,7 @@
 //  measure-tape-demo
 //
 //  Created by Minhaz on 19/08/17.
-//  Copyright © 2017 aub. All rights reserved.
+//  Copyright © 2017 Aubergine Solutions. All rights reserved.
 //
 
 import UIKit
