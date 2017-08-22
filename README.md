@@ -3,6 +3,9 @@
 
 > The demo shows how ARKit is useful in measurements.
 
+## Screenshot
+![](a_17_measurements_on_screen.jpg)
+
 ## Prerequisites
 
 1. Xcode9-beta - https://medium.com/r/?url=https%3A%2F%2Fdeveloper.apple.com%2Fdownload%2F
@@ -14,3 +17,4 @@
 1. iPhone SE
 2. iPhone 6s & above
 3. iPad(2017) and above
+
